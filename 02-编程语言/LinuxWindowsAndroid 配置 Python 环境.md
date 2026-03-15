@@ -31,5 +31,5 @@
 · 若需指定 Python 3.9 版本，可尝试：pkg install python@3.9
 · 验证：python --version
 
-【贡献者】@群友A、@群友B、@AI助手
+【贡献者】@AM Tirster
 【收录日期】2026.03.15
